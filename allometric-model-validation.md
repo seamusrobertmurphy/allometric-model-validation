@@ -28,7 +28,6 @@ bibliography: references.bib
 engine: knitr
 ---
 
-::: cell
 ```{=html}
 <style type="text/css">
 div.column {
@@ -49,7 +48,6 @@ div.column {
 }
 </style>
 ```
-:::
 
 ### Overview
 

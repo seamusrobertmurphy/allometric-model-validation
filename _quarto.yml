@@ -3,10 +3,10 @@ project:
   output-dir: docs
 
 website:
-  title: "VM0010 Starter Template"
+  title: "Allometry Validation"
   navbar:
     left:
-      - href: VM0010-starter-template.qmd
+      - href: allometric-model-validation.qmd
 
 format:
   html:
