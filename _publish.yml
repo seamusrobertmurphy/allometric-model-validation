@@ -1,0 +1,6 @@
+- source: allometric-model-validation.qmd
+  quarto-pub:
+    - id: ff941dd8-9a53-4b24-9fd3-986cfa35ef1c
+      url: https://seamusrobertmurphy.quarto.pub/allometry-validation
+    - id: 1b124c6a-1996-400a-a036-0873943e86be
+      url: https://seamusrobertmurphy.quarto.pub/art-trees-allometry-validation
